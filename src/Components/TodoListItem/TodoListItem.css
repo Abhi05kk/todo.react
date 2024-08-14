@@ -1,0 +1,24 @@
+.listitem{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+}
+
+.listitem h3{
+    width: 16rem;
+    
+}
+
+.listitem button{
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.done{
+    background-color: rgb(95, 240, 51);
+    border-radius: 5px;
+    padding: 5px;
+}
